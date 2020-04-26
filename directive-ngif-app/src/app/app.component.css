@@ -1,0 +1,15 @@
+.button {
+    text-align: center;
+}
+
+input[type=button] {
+    background-color: skyblue;
+    font-size: large;
+    border: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: navy;
+}
